@@ -40,7 +40,7 @@ Java-飞飞是一个长期项目，目的是做出一个多平台程序(客户端和服务端)
 ====================
 
 Java-飞飞需要兼容Java SE 7 的JVM环境.
-下载地址: http://java.sun.com/javase/downloads/index.jsp
+下载地址: [点击这里](http://java.sun.com/javase/downloads/index.jsp)
 
 你还需要添加一些用到的库文件:
 
