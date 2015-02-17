@@ -1,6 +1,7 @@
 Java-FlyFF
 ==========
 FlyFF (Fly for Fun) client and server in Java.
+i want development with you,so can you contact me?
 
 Contributions
 =============
